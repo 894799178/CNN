@@ -1,10 +1,10 @@
 package main
 
 import (
+	"cnn/src/service"
 	"fmt"
 	"github.com/Comdex/imgo"
 	"math/rand"
-	"service"
 )
 
 func main() {

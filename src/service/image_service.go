@@ -8,9 +8,9 @@
 package service
 
 import (
+	"cnn/src/utils"
 	"fmt"
 	"github.com/Comdex/imgo"
-	"utils"
 )
 
 /**
